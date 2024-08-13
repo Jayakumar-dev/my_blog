@@ -36,7 +36,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© All Rights Recieved.'
+    notice: '©{year} All Rights Recieved.'
     license:
       enable: false
       allow_derivatives: false
