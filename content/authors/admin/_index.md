@@ -1,13 +1,13 @@
 ---
 # Display name
-title: cloudjay
+title: Jayakumar
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Cloudy
-last_name: jay
+first_name: Jaya
+last_name: kumar
 
 # Status emoji
 status:
