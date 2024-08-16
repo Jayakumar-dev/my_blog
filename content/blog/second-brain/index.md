@@ -8,12 +8,12 @@ tags:
   - Kubernetes
   - Architecture
 image:
-  caption: 'Image credit: Kubernetes Overview
+  caption: Kubernetes Overview
 ---
 
 ## Let's break down its architecture:
 
-# 🚀Master Node (Control Plane):
+## 🚀Master Node (Control Plane):
 
 🫀API Server (kube-apiserver): The entry point to the Kubernetes cluster, exposing the Kubernetes API for all interactions.
 🕸️Scheduler (kube-scheduler): Allocates pods to nodes based on resource availability and constraints.
@@ -21,7 +21,7 @@ image:
 🧠ETCD-Database: A distributed key-value store that holds the cluster's state and other Informations.
 
 
-# 💪💪Worker Nodes:
+## 💪💪Worker Nodes:
 
 🧟Kubelet: Ensures the containers in the pods are running and reports the node’s status back to the control plane.
 💬Kube-proxy: Manages network rules on nodes, enabling communication to and from pods.
