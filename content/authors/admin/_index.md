@@ -6,8 +6,8 @@ title: Jayakumar
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Jaya
-last_name: kumar
+first_name: Jaya Kumar
+last_name: Sundaramoorhty
 
 # Status emoji
 status:
